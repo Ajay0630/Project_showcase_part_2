@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+    margin:300px;
+    vertical-align:space-around;
+    background-color:aquamarine;
+}
+h1 {
+    font-family:cursive;
+    font-size:40px;
+}
+#buttonnext {
+    width:100px;
+    height:50px;
+    font-size:30px;
+    font-family:monospace;
+    background-color: aqua;
+}
+p {
+    font-family:fantasy;
+    font-size: 20px;
+}
